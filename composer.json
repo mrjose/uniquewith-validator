@@ -21,13 +21,13 @@
     },
     "autoload": {
         "psr-0": {
-            "Felixkiss\\UniqueWithValidator\\": "src/"
+            "Mrjose\\UniqueWithValidator\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Felixkiss\\UniqueWithValidator\\ServiceProvider"
+                "Mrjose\\UniqueWithValidator\\ServiceProvider"
             ]
         }
     },

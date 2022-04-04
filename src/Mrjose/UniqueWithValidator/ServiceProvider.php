@@ -1,4 +1,4 @@
-<?php namespace Felixkiss\UniqueWithValidator;
+<?php namespace Mrjose\UniqueWithValidator;
 
 use Illuminate\Support\ServiceProvider as BaseServiceProvider;
 
